@@ -12,3 +12,6 @@ def subtract(a,b):
 print (f"5 + 3 =  {add(5,3)}")
 print (f"10 - 4 = {subtract(10,4)}")
 
+def multiply (a,b):
+    return a*b
+print (f"4 * 6 = {multiply4,6}")
